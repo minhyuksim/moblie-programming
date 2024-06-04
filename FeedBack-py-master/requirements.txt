@@ -1,0 +1,3 @@
+google-cloud-speech
+konlpy
+scikit-learn
